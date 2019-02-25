@@ -24,7 +24,6 @@ public class emp {
 	e2.disp();
         emp e3=new emp(333,"Lipu Jena",5000);
         e3.disp();
-}
 			}
 
 }
