@@ -22,7 +22,7 @@ public class emp {
 	e1.disp();
 	emp e2=new emp(222,"Lipu",2000);
 	e2.disp();
-        emp e3=new emp(333,"Lipu Jena",5000);
+        emp e3=new emp(444,"Lipu Jena",5000);
         e3.disp();
 			}
 
